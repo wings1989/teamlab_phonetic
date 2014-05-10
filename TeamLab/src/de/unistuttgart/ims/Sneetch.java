@@ -30,7 +30,7 @@ public class Sneetch {
 		// A Sneetch produces more than one word in each cycle,
 		// so w use the class Utterance to represent the list of
 		// produced words
-		return null;
+		return new Utterance();
 	}
 	
 	
